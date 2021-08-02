@@ -1,4 +1,12 @@
-### Hi there 👋
+### About me 👋
+
+Senior at [ECNU](https://www.ecnu.edu.cn/).
+
+Now working as a front-end intern at [ByteDance](https://bytedance.com/).
+
+### Contact me
+
+<qingheban@gmail.com>
 
 <!--
 **banqinghe/banqinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
