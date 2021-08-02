@@ -1,4 +1,4 @@
-### About me 👋
+### About me
 
 Senior at [ECNU](https://www.ecnu.edu.cn/).
 
