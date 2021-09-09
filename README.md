@@ -2,7 +2,7 @@
 
 Senior at [ECNU](https://www.ecnu.edu.cn/).
 
-Now working as a front-end intern at [ByteDance](https://bytedance.com/).
+Used to be a front-end intern at [ByteDance](https://bytedance.com/).
 
 ### Contact me
 
