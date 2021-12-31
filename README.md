@@ -2,9 +2,9 @@
 
 Senior at [ECNU](https://www.ecnu.edu.cn/).
 
-Used to be a front-end intern at [ByteDance](https://bytedance.com/).
-
 ### Contact me
+
+<qingheban@qq.com>
 
 <qingheban@gmail.com>
 
