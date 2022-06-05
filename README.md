@@ -1,12 +1,6 @@
-### About me
+🧙 Build Web UI
 
-Senior at [ECNU](https://www.ecnu.edu.cn/).
-
-### Contact me
-
-<qingheban@qq.com>
-
-<qingheban@gmail.com>
+📧 qingheban@(qq|gmail).com
 
 <!--
 **banqinghe/banqinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
