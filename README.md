@@ -2,6 +2,12 @@
 
 📧 qingheban@(qq|gmail).com
 
+<div>
+  <img style="width: 48%" src="https://wakatime.com/share/@3087f592-51a7-4add-b792-66d8dc33baad/aef656b2-5cb9-4bcc-9a68-321e2e4dc7b6.svg" alt="languages">
+  <img style="width: 48%" src="https://wakatime.com/share/@3087f592-51a7-4add-b792-66d8dc33baad/db398673-ba0d-42e1-ae29-4c3b30f03a9d.svg" alt="coding activity">
+</div>
+
+
 <!--
 **banqinghe/banqinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
