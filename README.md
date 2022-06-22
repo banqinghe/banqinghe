@@ -2,7 +2,7 @@
 
 📧 qingheban@(qq|gmail).com
 
-🧑‍💻 Last week
+⬇ Last week
 
 <!--START_SECTION:waka-->
 
