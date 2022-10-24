@@ -7,9 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Common Lisp      2 hrs 36 mins   ███████████▒░░░░░░░░░░░░░   45.93 %
-JavaScript       1 hr 25 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
-Other            51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+Common Lisp      2 hrs 36 mins   ███████████████▒░░░░░░░░░   61.85 %
+Other            47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
 ```
 
 <!--END_SECTION:waka-->
