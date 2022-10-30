@@ -7,8 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Common Lisp      2 hrs 36 mins   ███████████████▒░░░░░░░░░   61.85 %
-Other            47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+Makefile   1 min           ████████████▓░░░░░░░░░░░░   51.26 %
+Other      0 secs          ███████▓░░░░░░░░░░░░░░░░░   31.31 %
 ```
 
 <!--END_SECTION:waka-->
