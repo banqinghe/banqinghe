@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Makefile   1 min           ████████████▓░░░░░░░░░░░░   51.26 %
-Other      0 secs          ███████▓░░░░░░░░░░░░░░░░░   31.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
