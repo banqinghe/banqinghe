@@ -7,7 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust       21 mins         ████████████████▒░░░░░░░░   65.18 %
+Markdown   11 mins         ████████▓░░░░░░░░░░░░░░░░   34.46 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
